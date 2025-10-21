@@ -4,26 +4,25 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal Starter
+  🏡 LushHavens
 </h1>
+<p align="center">
+  <em>Discover beautiful, scenic spaces for your next shoot, hangout, or mini event.</em>
+</p>
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+1.  **Install dependencies.**
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    npm install
     ```
 
 2.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+    Navigate into the project directory and start it up.
 
     ```shell
-    cd my-gatsby-site/
     npm run develop
     ```
 
@@ -32,6 +31,22 @@
     Your site is now running at http://localhost:8000!
 
     Edit `src/pages/index.js` to see your site update in real-time!
+
+## 🏡 About LushHavens
+
+LushHavens is a platform for discovering and booking beautiful, scenic venues for hourly rentals. Perfect for photoshoots, small events, and intimate gatherings.
+
+### ✨ Features
+- **Featured Venues**: Browse curated collection of beautiful spaces
+- **Interactive Design**: Elegant cards with hover effects and favorites
+- **Responsive Layout**: Works perfectly on all devices
+- **Modern UI**: Built with Gatsby + Tailwind CSS
+
+### 🎨 Design System
+- Clean, aesthetic, modern layout
+- Green + neutral color palette
+- Rounded corners, subtle shadows, lots of whitespace
+- Typography: Inter font family
 
 4.  **Learn more**
 

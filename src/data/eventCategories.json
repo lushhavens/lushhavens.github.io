@@ -1,0 +1,127 @@
+[
+  {
+    "id": "private-dining",
+    "title": "Private Dining",
+    "description": "Intimate dining experiences in beautiful settings",
+    "icon": "🍽️",
+    "color": "from-amber-500 to-orange-600",
+    "textColor": "text-amber-600",
+    "bgColor": "bg-amber-50",
+    "borderColor": "border-amber-200",
+    "venues": [
+      {
+        "id": "serene-garden-studio",
+        "title": "Continental Private Dining",
+        "location": "Brooklyn, NY",
+        "rating": 4.9,
+        "image": "/static/venues/garden-studio.jpg"
+      },
+      {
+        "id": "cozy-cafe-nook",
+        "title": "Traditional Delights",
+        "location": "Williamsburg, NY",
+        "rating": 4.7,
+        "image": "/static/venues/cafe-nook.jpg"
+      },
+      {
+        "id": "rooftop-oasis",
+        "title": "Homely & Soulful",
+        "location": "Manhattan, NY",
+        "rating": 4.8,
+        "image": "/static/venues/rooftop-oasis.jpg"
+      }
+    ]
+  },
+  {
+    "id": "birthday-parties",
+    "title": "Birthday Parties",
+    "description": "Celebrate special moments in unique venues",
+    "icon": "🎉",
+    "color": "from-pink-500 to-rose-600",
+    "textColor": "text-pink-600",
+    "bgColor": "bg-pink-50",
+    "borderColor": "border-pink-200",
+    "venues": [
+      {
+        "id": "secret-garden",
+        "title": "Great Outdoors & Food",
+        "location": "Brooklyn, NY", 
+        "rating": 4.9,
+        "image": "/static/venues/secret-garden.jpg"
+      },
+      {
+        "id": "artistic-loft",
+        "title": "Family Fun in Citu",
+        "location": "SoHo, NY",
+        "rating": 4.8,
+        "image": "/static/venues/artistic-loft.jpg"
+      },
+      {
+        "id": "skyline-terrace",
+        "title": "Urban Free-spirited",
+        "location": "Manhattan, NY",
+        "rating": 4.7,
+        "image": "/static/venues/skyline-terrace.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bridal-showers",
+    "title": "Bridal Showers",
+    "description": "Elegant pre-wedding celebrations",
+    "icon": "💐",
+    "color": "from-purple-500 to-violet-600",
+    "textColor": "text-purple-600",
+    "bgColor": "bg-purple-50",
+    "borderColor": "border-purple-200",
+    "venues": [
+      {
+        "id": "zen-meditation-space",
+        "title": "Elegant Garden Celebrations",
+        "location": "Queens, NY",
+        "rating": 4.9,
+        "image": "/static/venues/zen-space.jpg"
+      },
+      {
+        "id": "vintage-coffee-house",
+        "title": "Afternoon Tea & Cocktails",
+        "location": "Brooklyn, NY",
+        "rating": 4.8,
+        "image": "/static/venues/vintage-coffee.jpg"
+      }
+    ]
+  },
+  {
+    "id": "photoshoots",
+    "title": "Photoshoots",
+    "description": "Stunning backdrops for professional photography",
+    "icon": "📸",
+    "color": "from-blue-500 to-indigo-600",
+    "textColor": "text-blue-600",
+    "bgColor": "bg-blue-50",
+    "borderColor": "border-blue-200",
+    "venues": [
+      {
+        "id": "creative-studio",
+        "title": "Artistic Backdrops",
+        "location": "Brooklyn, NY",
+        "rating": 4.6,
+        "image": "/static/venues/creative-studio.jpg"
+      },
+      {
+        "id": "serene-garden-studio",
+        "title": "Natural Light Studios",
+        "location": "Brooklyn, NY",
+        "rating": 4.9,
+        "image": "/static/venues/garden-studio.jpg"
+      },
+      {
+        "id": "rooftop-oasis",
+        "title": "City Skyline Views",
+        "location": "Manhattan, NY",
+        "rating": 4.8,
+        "image": "/static/venues/rooftop-oasis.jpg"
+      }
+    ]
+  }
+]
